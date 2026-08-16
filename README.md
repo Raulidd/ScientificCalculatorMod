@@ -1,5 +1,6 @@
 # Scientific Calculator Mod for Spaceflight Simulator
 
+<img width="720" height="667" alt="Calculator" src="https://github.com/Raulidd/ScientificCalculatorMod/blob/main/Calculator.gif?raw=true" />
 A functional scientific calculator integrated directly into **Spaceflight Simulator (SFS 1.6.0)**. Perform quick and complex mathematical calculations without alt-tabbing or leaving the game.
 
 ---
